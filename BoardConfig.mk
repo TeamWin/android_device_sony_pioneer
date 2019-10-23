@@ -50,7 +50,7 @@ BOARD_MKBOOTIMG_ARGS := --ramdisk_offset $(BOARD_RAMDISK_OFFSET) --tags_offset $
 TARGET_PREBUILT_KERNEL := device/sony/pioneer/prebuilt/Image.gz-dtb
 
 # Platform
-TARGET_BOARD_PLATFORM := sdm660
+TARGET_BOARD_PLATFORM := SDM660
 TARGET_BOARD_PLATFORM_GPU := qcom-adreno508
 
 # Encryption
